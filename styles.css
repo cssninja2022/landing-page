@@ -1,0 +1,18 @@
+.ThirdSection {
+    text-align: center;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    padding: 29px 350px 29px 350px;
+    
+}
+
+#quote{
+    text-align: left;
+    font-style: italic;
+    color: #1F2937;
+}
+
+#person{
+    text-align: right;
+}
+
